@@ -311,6 +311,109 @@
       "isForSale": true,
       "available": true,
       "imageUrl": "https://example.com/images/fiat-argo.jpg"
+<<<<<<< Updated upstream:Cars.json
+=======
+    },
+    {
+      "id": "27",
+      "brand": "Subaru",
+      "model": "Impreza",
+      "type": "Hatchback",
+      "price": 20000000,
+      "year": 2012,
+      "description": "4x4 solo para entendidos",
+      "isForSale": true,
+      "available": true,
+      "imageUrl": "assets/images/Subaru Impreza 2012.jpg"
+    },
+    {
+      "id": "28",
+      "brand": "Honda",
+      "model": "Civic",
+      "price": 34000,
+      "type": "Sedan",
+      "year": 2014,
+      "description": "Gran sedan",
+      "isForSale": true,
+      "available": true,
+      "imageUrl": ""
+    },
+    {
+      "id": "29",
+      "brand": "Fiat",
+      "model": "Mobi",
+      "type": "Hatchback",
+      "price": 2000,
+      "year": 2024,
+      "description": "Como primer auto, ideal!",
+      "isForSale": true,
+      "available": true,
+      "imageUrl": ""
+    },
+    {
+      "id": "30",
+      "brand": "AAAAASSSSS",
+      "model": "AAAKSKS",
+      "type": "AAAAA",
+      "price": 5154561,
+      "year": 2024,
+      "description": "dasdasdasda",
+      "isForSale": true,
+      "available": true,
+      "imageUrl": ""
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "firstName": "Juan",
+      "lastName": "Pérez",
+      "email": "juan.perez@example.com",
+      "password": "password123",
+      "tel": "+5491123456789",
+      "address": "Av. Siempre Viva 742",
+      "dateOfBirth": "1990-05-15"
+    },
+    {
+      "id": "2",
+      "firstName": "Ana",
+      "lastName": "Gómez",
+      "email": "ana.gomez@example.com",
+      "password": "password456",
+      "tel": "+5491165432109",
+      "address": "Calle Falsa 123",
+      "dateOfBirth": "1985-10-20"
+    },
+    {
+      "firstName": "Juan",
+      "lastName": "Unanue",
+      "email": "juanunanue@gmail.com",
+      "password": "pepito",
+      "phone": "+5492236015427",
+      "address": "Alvarado 1487",
+      "dateOfBirth": "1999-12-28",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "firstName": "Ignacio Valentin",
+      "lastName": "ASD",
+      "email": "nacho2012gomez@gmail.com",
+      "password": "aaa123",
+      "phone": "123123131",
+      "address": "asddasd",
+      "dateOfBirth": "2004-03-11"
+    },
+    {
+      "id": 5,
+      "firstName": "Gonza",
+      "lastName": "Vazquez",
+      "email": "gonza@gas.com",
+      "password": "123456",
+      "phone": "456",
+      "address": "456",
+      "dateOfBirth": "1999-03-06"
+>>>>>>> Stashed changes:Back.json
     }
   ]
 }
